@@ -1,3 +1,4 @@
+
 # Data Analyst Roadmap
 
 Welcome to the **Data Analyst Roadmap** repository! This project is a 3-month structured learning program designed to equip participants with the necessary skills to become proficient data analysts. By following this roadmap, we will:
@@ -12,32 +13,26 @@ Welcome to the **Data Analyst Roadmap** repository! This project is a 3-month st
 
 The repository is organized into weekly folders, each containing:
 
-- **Plan.md**: The weekly overview, including:
-  - Key objectives
-  - Major topics
-  - Exercise deadlines
-  - Expected outcomes
-
-- **Day_X.md**: Daily learning guides detailing:
-  - Tools and resources needed
-  - Keywords for learning
-  - Step-by-step instructions for the day's tasks
-  - Short and concise learning materials for self-study
-
-- **Exercises**: Practical exercises and challenges aligned with the weekly topics.
-- **Resources**: Curated datasets, videos, articles, and other learning aids.
+- **README.md**: A summary of the week’s learning objectives, tasks, and deliverables.
+- **content.md**: A comprehensive guide for daily learning with all necessary information for quizzes and exercises.
+- **Exercises/**: Practical exercises and challenges aligned with the weekly topics.
+- **Practice_Dataset.csv**: Dataset files for hands-on tasks.
+- **Resources.md**: Additional resources like videos, articles, and research materials.
 
 ### Example Folder Structure
 ```
 ├── Week_1/
-│   ├── Plan.md
-│   ├── Day_1.md
-│   ├── Day_2.md
+│   ├── README.md
+│   ├── content.md
 │   ├── Exercises/
-│   └── Resources/
+│   │   ├── Exercise_1_[Title].md
+│   │   ├── Exercise_2_[Title].md
+│   │   ├── Week_1_Quiz.md
+│   ├── Practice_Dataset.csv
+│   └── Resources.md
 ├── Week_2/
-│   ├── Plan.md
-│   ├── Day_1.md
+│   ├── README.md
+│   ├── content.md
 │   ├── ...
 ```
 
@@ -47,30 +42,29 @@ The repository is organized into weekly folders, each containing:
 
 This roadmap incorporates:
 
-1. **Structured Weekly Plans**:
-   - Start each week with a clear overview of goals and deadlines.
-   - Progress steadily through guided daily plans.
+1. **Structured Daily Plans**:
+   - Each day has a standalone **content.md** file that includes learning materials, step-by-step instructions, and bonus tips.
 
 2. **Hands-on Practice**:
-   - Regular exercises with datasets and practical scenarios.
-   - Tasks range from foundational (easy) to real-world challenges (medium and hard).
+   - Regular exercises with datasets and real-world scenarios.
+   - Practical challenges to build a portfolio.
 
 3. **Feedback and Evaluation**:
-   - Weekly group feedback on exams and exercises.
-   - Individual feedback tailored to each participant's performance.
-   
+   - Weekly group feedback on exercises and quizzes.
+   - Individual performance assessments to track progress.
+
 4. **Collaborative Learning**:
-   - Group activities to simulate workplace teamwork.
+   - Group exercises simulating teamwork in a professional setting.
 
 ---
 
 ## Scoring and Leaderboard
 
-To maintain motivation and track progress:
+To keep motivation high and track progress:
 
-- **Mandatory Tasks**: Easy and medium-level tasks are required to complete.
-- **Optional Tasks**: Hard-level tasks offer bonus points.
-- A leaderboard will display weekly scores for friendly competition.
+- **Mandatory Tasks**: Tasks that everyone must complete to pass the week.
+- **Bonus Tasks**: Additional challenges offering extra points.
+- A leaderboard displaying weekly scores for friendly competition.
 
 ---
 
@@ -81,8 +75,8 @@ To maintain motivation and track progress:
    git clone https://github.com/yourusername/data-analyst-roadmap.git
    ```
 2. Navigate to the folder for the current week and day.
-3. Follow the instructions in the **Plan.md** and **Day_X.md** files.
-4. Complete exercises and submit results as instructed.
+3. Follow the instructions in the **README.md** and **content.md** files.
+4. Complete exercises and submit results via your preferred platform.
 
 ---
 
