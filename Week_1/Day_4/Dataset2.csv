@@ -1,0 +1,4 @@
+PerformanceID,EmployeeID,ReviewDate,EnvironmentSatisfaction,ManagerRating,WorkLifeBalance,TrainingOpportunitiesWithinYear
+PR01,3012-1A41,2023-01-01,5,4,3,2
+PR02,3012-2B52,2023-01-01,3,5,4,3
+PR03,3012-3C63,2023-01-01,4,3,2,1
