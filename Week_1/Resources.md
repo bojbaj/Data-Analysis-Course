@@ -1,17 +1,25 @@
 # Resources for Week 1
 
-## Articles and Tutorials
-1. [What is Data Analytics?](https://www.investopedia.com/terms/d/data-analytics.asp)
-2. [Beginner's Guide to Data Analytics](https://www.datacamp.com/community/tutorials/data-analytics-beginners-guide)
-
-## Videos
-1. [Introduction to Data Analytics on YouTube](https://www.youtube.com/results?search_query=introduction+to+data+analytics).
-2. [Data Analytics for Beginners | Simplilearn](https://www.simplilearn.com/data-analytics-free-course-skillup).
+## Tutorials
+1. **Excel Basics**
+   - Video: [Excel for Beginners](https://www.youtube.com/results?search_query=excel+for+beginners)
+   - Keywords: "Excel pivot tables beginner", "basic Excel functions".
+2. **SQL Basics**
+   - Video: [SQL Crash Course](https://www.youtube.com/results?search_query=sql+basics+crash+course)
+   - Keywords: "basic SQL SELECT queries", "SQL for beginners".
+3. **Python Basics**
+   - Video: [Python for Data Analysis](https://www.youtube.com/results?search_query=python+data+analysis+basics)
+   - Keywords: "Python pandas tutorial", "basic data cleaning Python".
 
 ## Datasets
-Use the sample dataset provided in **Resources/Datasets.zip**.
+- **Adidas Webstore Shoe Data**: Practice Excel skills.
+  - Link: [Adidas Dataset on Kaggle](https://www.kaggle.com/datasets/tamsnd/adidas-webstore-shoe-data)
+- **Casino Gaming Data**: Practice SQL queries.
+  - Link: [Casino Data on Kaggle](https://www.kaggle.com/datasets/willianoliveiragibin/casino-gaming-data)
+- **Heart Disease Dataset**: Practice Python analysis.
+  - Link: [Heart Disease Dataset on Kaggle](https://www.kaggle.com/datasets/hosammhmdali/heart-disease-dataset)
 
-### Keywords for Additional Research
-- "Importance of data analytics in decision-making."
-- "Pivot tables for beginners."
-- "Introduction to Excel for data analysis."
+## Tools
+- **Excel**: Available in Microsoft Office or via free alternatives like Google Sheets.
+- **SQL**: Install SQLite or use an online SQL editor like SQL Fiddle.
+- **Python**: Install via Anaconda or Python.org.

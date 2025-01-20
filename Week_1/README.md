@@ -1,20 +1,51 @@
-# Week 1: Introduction to Data Analytics
+# Week 1: Introduction to Data Analysis and Tools
 
-Welcome to Week 1 of the Data Analyst Learning Plan! This week, we focus on understanding the role of a data analyst, learning the basics of data analytics, and exploring essential tools like Excel and Python.
+## Overview
+This week focuses on laying the groundwork for data analysis by introducing the essential tools and concepts. You will learn the basics of Excel, SQL, and Python and apply these skills through guided exercises.
 
-## Weekly Goals
-1. Understand the daily responsibilities of a data analyst.
-2. Learn the fundamentals of data analytics and its importance.
-3. Get hands-on with basic data analysis and visualization techniques.
+### Objectives
+- Understand the role of a Data Analyst.
+- Learn basic Excel operations: filtering, sorting, and pivot tables.
+- Get familiar with SQL for retrieving data and writing basic queries.
+- Begin working with Python for loading, exploring, and cleaning datasets.
 
-## Weekly Structure
-- **Day 1–2**: Introduction to data analytics and tools.
-- **Day 3–4**: Data cleaning and preprocessing.
-- **Day 5–6**: Exploring data and basic visualization.
-- **Day 7**: Weekly review and quiz.
+### Deliverables
+By the end of the week, you should submit:
+1. A cleaned dataset in Excel.
+2. SQL query results (screenshot or text).
+3. Python script and cleaned dataset.
 
-## Deliverables
-- Exercises from the **Exercises/** folder.
-- Completed quiz in **Week_1_Quiz.md**.
+### Resources
+- **Excel Basics**: [Excel Beginner Tutorial](https://www.youtube.com/results?search_query=excel+for+beginners)
+- **SQL Basics**: [SQL Crash Course](https://www.youtube.com/results?search_query=sql+basics+crash+course)
+- **Python Basics**: [Python for Data Analysis](https://www.youtube.com/results?search_query=python+data+analysis+basics)
 
-Good luck and have fun learning!
+---
+
+## Weekly Plan
+### Day 1
+- Topic: Introduction to Excel for Data Analysis.
+- Activities:
+  - Learn filtering and sorting.
+  - Practice using pivot tables.
+  - Task: Clean a sample dataset using Excel.
+
+### Day 2
+- Topic: Introduction to SQL.
+- Activities:
+  - Learn the basics of SELECT queries.
+  - Practice querying a small database.
+  - Task: Write SQL queries to retrieve specific information.
+
+### Day 3
+- Topic: Python Basics for Data Analysis.
+- Activities:
+  - Load a dataset using Python.
+  - Explore and clean the dataset.
+  - Task: Write a Python script to clean and analyze the data.
+
+---
+
+### Deadlines
+- **Practice Tasks**: Submit daily tasks by the end of the respective day.
+- **Weekly Deliverables**: Submit all outputs by the end of Day 7.
