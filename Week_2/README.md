@@ -1,94 +1,50 @@
-# Week 2: Data Visualization Principles and Tools
+# Week 2: Introduction to Data Visualization
 
 ## Overview
-This week focuses on introducing the principles and tools for effective data visualization. You will learn to create visualizations in Excel and Python and understand the best practices for designing charts that communicate data insights effectively.
+In Week 2, we focus on mastering data visualization to effectively communicate insights. This includes creating charts in Excel and Python and understanding the principles of effective visualization.
+
+---
 
 ## Objectives
-- Understand the importance of data visualization and how it supports decision-making.
-- Learn basic visualization techniques in Excel, including bar charts, line charts, and scatter plots.
-- Get familiar with Python libraries like Matplotlib and Seaborn for creating advanced visualizations.
-- Apply visualization principles to real-world datasets.
+- Learn visualization techniques in Excel and Python.
+- Explore chart types such as bar, line, scatter, and pie charts.
+- Understand the principles of clear, effective data presentation.
 
 ---
 
 ## Weekly Plan
-
 ### Day 1: Introduction to Data Visualization
-- Topics:
-  - Understanding visualization principles (e.g., clarity, simplicity, audience focus).
-  - Creating basic charts in Excel (bar, line, pie).
-- Deliverables:
-  - Charts for practice datasets: "Day1_Charts.xlsx".
+- Overview of data visualization principles.
+- Creating basic charts in Excel.
 
----
+### Day 2: Chart Customization in Excel
+- Advanced chart formatting and combination charts.
 
-### Day 2: Advanced Excel Visualization
-- Topics:
-  - Advanced charts (stacked bar, scatter, histograms).
-  - Customizing charts with conditional formatting and templates.
-- Deliverables:
-  - Customized charts: "Day2_CustomCharts.xlsx".
+### Day 3: Introduction to Python Visualization
+- Plotting with matplotlib and pandas.
 
----
+### Day 4: Advanced Python Visualization
+- Customizing plots and using seaborn for advanced visualizations.
 
-### Day 3: Python Visualization Basics
-- Topics:
-  - Introduction to Matplotlib and Seaborn.
-  - Creating line plots, scatter plots, and bar charts.
-- Deliverables:
-  - Python script: "Practice3_Script.py".
-  - Charts: "Practice3_Output.png".
+### Day 5: Effective Data Storytelling
+- Crafting narratives using charts and visuals.
 
----
-
-### Day 4: Visualizing Relationships and Trends
-- Topics:
-  - Using Python to visualize relationships (scatter plots, pair plots).
-  - Adding trends and regression lines to plots.
-- Deliverables:
-  - Python script: "Practice4_Script.py".
-  - Charts: "Practice4_Output.png".
-
----
-
-### Day 5: Customizing Python Visualizations
-- Topics:
-  - Customizing plot styles, themes, and annotations.
-  - Exporting visualizations for presentations.
-- Deliverables:
-  - Python script: "Practice5_Script.py".
-  - Charts: "Practice5_Output.png".
-
----
-
-### Day 6: Combining Excel and Python Visualizations
-- Topics:
-  - Comparing Excel and Python visualization capabilities.
-  - Creating a combined report with charts from both tools.
-- Deliverables:
-  - Report file: "Practice6_Report.docx".
-
----
+### Day 6: Project Day
+- Apply visualization techniques to a given dataset.
 
 ### Day 7: Weekly Review and Examination
-- Topics:
-  - Consolidating visualization skills.
-  - Final examination with tasks at Easy, Medium, and Hard levels.
-- Deliverables:
-  - Easy: "Exam_Easy_Charts.xlsx".
-  - Medium: "Exam_Medium_Scripts.py" and "Exam_Medium_Charts.png".
-  - Hard: "Exam_Hard_Report.docx".
+- Consolidate skills and complete the weekly exam.
 
 ---
 
-## Resources
-- **Excel Visualization**: Tutorials on chart creation and customization.
-- **Python Visualization**: Resources on Matplotlib and Seaborn.
-- **Datasets**:
-  - Sales and profit data
-  - Marketing analytics data
-  - Survey results data
+## Deliverables
+1. Daily practice files with visualizations.
+2. Weekly exam covering both Excel and Python visualizations.
 
-## Deadlines
-- **Daily Tasks**: Submit practice files by the end of each respective day.
-- **Weekly Exam**: Submit all exam files by the end of Day 7.
+## Resources
+- Video tutorials and articles on visualization techniques.
+- Datasets for hands-on practice.
+
+---
+
+Happy learning! Let’s create visuals that speak louder than words!
