@@ -1,17 +1,12 @@
-# Practice 4: Comparing Chart Types
+# Practice 4: Conditional Formatting
 
-## Objective
-Understand when to use different chart types.
+## Task
+1. Use the `Adidas_Sales_Data.csv` dataset.
+2. Create a line chart for `Total Sales` trends by `Month`.
+3. Highlight the month with the highest sales using conditional formatting.
+4. Save your chart as "Practice4_Conditional_Formatting.xlsx".
 
-### Task
-1. Open `sales_data.csv`.
-2. Create:
-   - A bar chart for category-wise sales.
-   - A line chart for monthly trends.
-   - A histogram to show frequency distribution of sales values.
+---
 
-### Deliverables
-- Excel file with charts: `Practice4_Comparison.xlsx`.
-
-### Tips
-- Use histograms for numerical data distribution.
+## Deliverable
+Submit "Practice4_Conditional_Formatting.xlsx".

@@ -1,17 +1,15 @@
-# Practice 6: Visualizing Real-World Data
+# Practice 6: Identify Errors and Correct Them
 
-## Objective
-Apply your knowledge to create meaningful charts from a new dataset.
+## Task
+1. Use the `Adidas_Sales_Data.csv` dataset to create a bar chart showing `Total Sales` by `Region`.
+2. Simulate and fix the following issues:
+   - **Incorrect Axis Labels**: Ensure the x-axis is labeled "Region" and the y-axis is labeled "Total Sales".
+   - **Missing Title**: Add a meaningful title: "Total Sales by Region".
+   - **Data Labels**: Ensure data labels are added for clarity.
+   - **Misleading Colors**: Ensure colors are consistent and not overly distracting.
+3. Save your corrected chart as "Practice6_Corrected_Chart.xlsx".
 
-### Task
-1. Open `marketing_data.csv`.
-2. Create the following charts:
-   - A stacked bar chart for ad spend by campaign and region.
-   - A pie chart showing the percentage of total clicks by campaign.
-   - A scatter plot showing the relationship between ad spend and sales.
+---
 
-### Deliverables
-- Excel file with charts: `Practice6_RealWorld.xlsx`.
-
-### Tips
-- Use color coding to differentiate campaigns in stacked bar charts.
+## Deliverable
+Submit "Practice6_Corrected_Chart.xlsx".

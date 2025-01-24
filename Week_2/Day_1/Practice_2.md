@@ -1,17 +1,14 @@
-# Practice 2: Customizing Excel Charts
+# Practice 2: Creating a Line Chart
 
-## Objective
-Enhance basic charts with customization options.
+## Task
+1. Use the `Adidas_Sales_Data.csv` dataset.
+2. Create a line chart to show `Total Sales` trends over `Month`.
+3. Add:
+   - Title: "Monthly Sales Trend".
+   - Axis labels: "Month" (x-axis) and "Total Sales" (y-axis).
+4. Save your chart as "Practice2_Line_Chart.xlsx".
 
-### Task
-1. Use the charts created in Practice 1.
-2. Perform the following customizations:
-   - Add data labels to the bar chart.
-   - Format the line chart with a dotted style and markers.
-   - Use 3D formatting for the pie chart.
+---
 
-### Deliverables
-- Updated Excel file: `Practice2_CustomCharts.xlsx`.
-
-### Tips
-- Explore Excel's formatting options under the "Chart Design" tab.
+## Deliverable
+Submit "Practice2_Line_Chart.xlsx".

@@ -1,17 +1,14 @@
-# Practice 3: Understanding Visualization Principles
+# Practice 3: Adding Data Labels
 
-## Objective
-Analyze chart designs and identify improvements.
+## Task
+1. Use the `Adidas_Sales_Data.csv` dataset.
+2. Create a bar chart comparing `Profit Margin` by `Region`.
+3. Add:
+   - Data labels to show exact profit percentages.
+   - A title: "Profit Margin by Region".
+4. Save your chart as "Practice3_Data_Labels.xlsx".
 
-### Task
-1. Review the example charts in the provided file: `example_charts.xlsx`.
-2. Identify:
-   - Strengths and weaknesses in design.
-   - Suggestions for improvement.
-3. Write a brief summary of your findings.
+---
 
-### Deliverables
-- Document with analysis: `Practice3_Analysis.docx`.
-
-### Tips
-- Focus on principles like clarity, simplicity, and relevance.
+## Deliverable
+Submit "Practice3_Data_Labels.xlsx".

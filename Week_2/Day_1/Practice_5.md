@@ -1,16 +1,15 @@
-# Practice 5: Combining Charts in Excel
+# Practice 5: Dual-Axis Chart
 
-## Objective
-Combine multiple chart types in a single Excel sheet.
+## Task
+1. Use the `Adidas_Sales_Data.csv` dataset.
+2. Create a combination chart:
+   - Bar chart for `Total Sales`.
+   - Line chart for `Profit Margin`.
+   - Use `Region` as the category axis.
+3. Add appropriate labels and formatting.
+4. Save your chart as "Practice5_Dual_Axis_Chart.xlsx".
 
-### Task
-1. Use `sales_data.csv`.
-2. Create:
-   - A combination chart with bars (sales by region) and a line (monthly trend).
-   - A chart using dual axes for two variables: sales and profits.
+---
 
-### Deliverables
-- Excel file: `Practice5_CombinedCharts.xlsx`.
-
-### Tips
-- Explore the "Combo Chart" option in Excel.
+## Deliverable
+Submit "Practice5_Dual_Axis_Chart.xlsx".

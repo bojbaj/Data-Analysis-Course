@@ -1,18 +1,14 @@
-# Practice 1: Creating Basic Charts in Excel
+# Practice 1: Creating a Bar Chart
 
-## Objective
-Create bar, line, and pie charts using Excel to represent sales data.
+## Task
+1. Use the `Adidas_Sales_Data.csv` dataset.
+2. Create a bar chart showing `Total Sales` by `Region`.
+3. Add:
+   - Title: "Total Sales by Region".
+   - Axis labels: "Region" (x-axis) and "Total Sales" (y-axis).
+4. Save your chart as "Practice1_Bar_Chart.xlsx".
 
-### Task
-1. Open the dataset `sales_data.csv`.
-2. Create the following:
-   - A bar chart showing total sales by product category.
-   - A line chart showing monthly sales trends.
-   - A pie chart showing sales percentage by region.
+---
 
-### Deliverables
-- Excel file with charts: `Practice1_Charts.xlsx`.
-
-### Tips
-- Use appropriate labels and titles for each chart.
-- Format the charts for better readability.
+## Deliverable
+Submit "Practice1_Bar_Chart.xlsx".
