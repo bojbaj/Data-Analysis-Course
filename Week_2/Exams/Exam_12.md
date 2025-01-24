@@ -1,22 +1,25 @@
-# Exam 12: Final Comprehensive Project
+# Week 2 Exam: Expert Challenge
 
 ## Objective
-Combine all learned skills to analyze and visualize a new dataset.
+Test your ability to integrate all learned tools to solve a business problem.
 
-### Task
-1. Choose one of the provided datasets: `Retail Sales` or `Quality of Life`.
-2. Perform the following:
-   - Clean and preprocess the data.
-   - Create at least 5 visualizations (a mix of Excel and Python) to analyze the data.
-   - Write a report summarizing key findings and recommendations.
+---
 
-### Deliverables
-- Cleaned dataset: `Exam_12_CleanedData.xlsx`.
-- Excel charts: `Exam_12_Charts.xlsx`.
-- Python visualizations: `Exam_12_Script.py`.
-- Report: `Exam_12_FinalReport.docx`.
+## Real job's task:
+The marketing team wants a detailed report on product performance and customer trends to design new campaigns.
 
-### Evaluation Criteria
-- Quality of data preprocessing.
-- Relevance and clarity of visualizations.
-- Depth and insightfulness of the report.
+---
+
+### Task:
+1. **Excel**:
+   - Use the `Adidas_Sales_Data.csv` dataset.
+   - Create:
+     - A pivot table summarizing `Total Sales` and `Profit Margin` by `Product Category` and `Region`.
+     - A combination chart comparing `Total Sales` and `Profit Margin`.
+   - Save your file as "Exam12_Excel_Report.xlsx".
+
+2. **SQL**:
+   - Use the `Retail_Store_Sales.csv` dataset.
+   - Write a SQL query to:
+     - Find the top 3 products by sales in each `Region`.
+     - Calculate t

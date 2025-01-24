@@ -1,19 +1,21 @@
-# Exam 2: Data Cleaning for Visualization
+# Week 2 Exam: Easy Level
 
 ## Objective
-Prepare data for visualization by cleaning and organizing it.
+Test your ability to create scatter plots in Python.
 
-### Task
-1. Open the dataset: `marketing_data.csv`.
-2. Perform the following tasks:
-   - Remove duplicate entries.
-   - Handle missing values in the "Ad Spend" and "Clicks" columns.
-   - Create a new column "CTR" (Click-Through Rate) calculated as: `(Clicks / Ad Impressions) * 100`.
+---
 
-### Deliverables
-- Cleaned dataset: `Exam_2_CleanedData.xlsx`.
+## Real job's task:
+Analyze the relationship between customer age and average transaction value for a regional sales report.
 
-### Evaluation Criteria
-- Completeness of data cleaning.
-- Accuracy of new column calculations.
-- Proper formatting of the cleaned dataset.
+---
+
+### Task: Python
+1. Use the `Retail_Store_Sales.csv` dataset.
+2. Write a Python script to:
+   - Plot a scatter chart showing `Customer Age` vs. `Average Transaction Value`.
+   - Label the axes and add a title to the chart.
+3. Save your script as "Exam2_Python_Script.py".
+4. Save the chart as "Exam2_Scatter_Plot.png".
+
+---

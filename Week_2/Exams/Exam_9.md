@@ -1,19 +1,21 @@
-# Exam 9: Data Storytelling
+# Week 2 Exam: Hard Level
 
 ## Objective
-Tell a story with data visualizations.
+Test your ability to create advanced SQL queries.
 
-### Task
-1. Use the datasets: `sales_data.csv` and `marketing_data.csv`.
-2. Create a set of visualizations that together tell a story about sales performance and marketing effectiveness.
-   - Include at least 5 charts (e.g., trend charts, bar charts, scatter plots).
-   - Use a mix of Excel and Python visualizations.
+---
 
-### Deliverables
-- Visualizations: `Exam_9_Charts.xlsx` and `Exam_9_Script.py`.
-- Story document: `Exam_9_Story.docx`.
+## Real job's task:
+Analyze customer loyalty trends by identifying regions with repeat customers and high sales.
 
-### Evaluation Criteria
-- Logical flow and coherence of the story.
-- Quality and relevance of visualizations.
-- Impactfulness of the storytelling.
+---
+
+### Task: SQL
+1. Use the `Retail_Store_Sales.csv` dataset.
+2. Write a SQL query to:
+   - Identify regions with the highest percentage of repeat customers.
+   - Calculate total sales and average sales per transaction for those regions.
+3. Save your query in "Exam9_SQL_Query.sql".
+4. Export the query results as "Exam9_SQL_Output.csv".
+
+---

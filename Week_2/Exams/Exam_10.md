@@ -1,19 +1,24 @@
-# Exam 10: Dashboard Creation
+# Week 2 Exam: Expert Challenge
 
 ## Objective
-Design and create an interactive dashboard.
+Test your ability to integrate Excel, SQL, and Python for comprehensive data analysis.
 
-### Task
-1. Use the dataset: `sales_data.csv`.
-2. Create an interactive dashboard in Excel with the following features:
-   - Filters for "Region" and "Product Type".
-   - Charts displaying key metrics (e.g., total sales, sales trends, sales by product).
-   - A summary table with conditional formatting.
+---
 
-### Deliverables
-- Excel file: `Exam_10_Dashboard.xlsx`.
+## Real job's task:
+Create an executive dashboard summarizing key sales and profit trends.
 
-### Evaluation Criteria
-- Functionality and interactivity of the dashboard.
-- Aesthetic design and layout.
-- Accuracy of the displayed data.
+---
+
+### Task:
+1. Use the `Retail_Store_Sales.csv` and `Adidas_Sales_Data.csv` datasets.
+2. Complete the following:
+   - **Excel**: Create a dashboard summarizing `Total Sales`, `Profit`, and `Top Products by Sales`.
+   - **SQL**: Write queries to extract insights on sales trends and product performance.
+   - **Python**: Create a bar chart of `Region` vs. `Profit Margin`.
+3. Save your work as:
+   - "Exam10_Excel_Dashboard.xlsx".
+   - "Exam10_SQL_Query.sql".
+   - "Exam10_Python_Script.py".
+
+---

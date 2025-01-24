@@ -1,20 +1,22 @@
-# Exam 5: Customizing Visualizations in Python
+# Week 2 Exam: Medium Level
 
 ## Objective
-Enhance Python plots with customization.
+Test your ability to create line charts using Python.
 
-### Task
-1. Use the dataset: `marketing_data.csv`.
-2. Create the following:
-   - A bar chart showing total "Clicks" by "Ad Campaign", sorted by descending order.
-   - A scatter plot with trend lines showing the relationship between "Ad Spend" and "Sales".
-   - Annotate key points on the scatter plot (e.g., highest and lowest sales).
+---
 
-### Deliverables
-- Python script: `Exam_5_Script.py`.
-- Plot images: `Exam_5_CustomPlots.png`.
+## Real job's task:
+Finance requires a trend analysis of monthly sales for strategic planning.
 
-### Evaluation Criteria
-- Effectiveness of customizations (e.g., annotations, themes).
-- Accuracy of trend lines.
-- Visual appeal of plots.
+---
+
+### Task: Python
+1. Use the `Retail_Store_Sales.csv` dataset.
+2. Write a Python script to:
+   - Plot a line chart of `Month` vs. `Total Sales`.
+   - Highlight key data points (e.g., highest and lowest sales months).
+   - Add a title and axis labels.
+3. Save your script as "Exam5_Python_Script.py".
+4. Save the chart as "Exam5_Line_Chart.png".
+
+---

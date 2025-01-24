@@ -1,21 +1,21 @@
-# Exam 7: Exploring Correlations
+# Week 2 Exam: Hard Level
 
 ## Objective
-Analyze and visualize correlations in datasets.
+Test your ability to analyze and present sales data using Excel.
 
-### Task
-1. Use the dataset: `survey_results.csv`.
-2. Perform the following:
-   - Calculate the correlation matrix for numeric columns.
-   - Visualize the correlations using a Seaborn heatmap.
-   - Identify the strongest positive and negative correlations and include them in the report.
+---
 
-### Deliverables
-- Python script: `Exam_7_Script.py`.
-- Heatmap image: `Exam_7_Heatmap.png`.
-- Summary: `Exam_7_Report.docx`.
+## Real job's task:
+Management needs a report summarizing sales performance with key trends highlighted.
 
-### Evaluation Criteria
-- Correct calculation of correlations.
-- Clarity and effectiveness of the heatmap.
-- Insightfulness of the correlation analysis.
+---
+
+### Task: Excel
+1. Use the `Adidas_Sales_Data.csv` dataset.
+2. Create:
+   - A pivot table summarizing `Total Sales` by `Region` and `Product Category`.
+   - A line chart to show monthly sales trends for each `Region`.
+   - Highlight the top 3 regions by sales using conditional formatting.
+3. Save your work as "Exam7_Excel_Output.xlsx".
+
+---

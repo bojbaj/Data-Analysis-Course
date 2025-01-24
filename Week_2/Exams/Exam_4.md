@@ -1,20 +1,22 @@
-# Exam 4: Python Visualization Basics
+# Week 2 Exam: Medium Level
 
 ## Objective
-Create basic plots using Matplotlib.
+Test your ability to use combination charts in Excel.
 
-### Task
-1. Load the dataset: `sales_data.csv` using Python.
-2. Create the following plots:
-   - Line plot showing monthly sales trends for 2022.
-   - Bar chart showing total sales by product category.
-   - Scatter plot showing the relationship between "Ad Spend" and "Sales".
+---
 
-### Deliverables
-- Python script: `Exam_4_Script.py`.
-- Plot images: `Exam_4_Plots.png`.
+## Real job's task:
+The management team wants a comparison of total sales and profit margin by region.
 
-### Evaluation Criteria
-- Correctness of Python code.
-- Quality and accuracy of plots.
-- Proper use of labels and titles.
+---
+
+### Task: Excel
+1. Use the `Adidas_Sales_Data.csv` dataset.
+2. Create a combination chart:
+   - Bar chart for `Total Sales`.
+   - Line chart for `Profit Margin`.
+   - Use `Region` as the category axis.
+3. Add appropriate labels and formatting.
+4. Save the Excel file as "Exam4_Excel_Output.xlsx".
+
+---

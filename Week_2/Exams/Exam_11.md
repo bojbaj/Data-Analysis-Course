@@ -1,20 +1,30 @@
-# Exam 11: Advanced Seaborn Visualizations
+# Week 2 Exam: Hard Level
 
 ## Objective
-Explore advanced visualization techniques using Seaborn.
+Test your ability to use SQL and Python for advanced analytics and visualization.
 
-### Task
-1. Use the dataset: `survey_results.csv`.
-2. Create the following:
-   - A violin plot showing the distribution of "Hours Studied" by "Age Group".
-   - A box plot with swarm overlay for "Exam Scores" by "Gender".
-   - A pair plot to explore relationships among "Hours Studied", "Exam Scores", and "Sleep Hours".
+---
 
-### Deliverables
-- Python script: `Exam_11_Script.py`.
-- Plot images: `Exam_11_Plots.png`.
+## Real job's task:
+The finance department wants an analysis of seasonal sales trends and customer behavior.
 
-### Evaluation Criteria
-- Appropriate use of advanced Seaborn features.
-- Clarity and insights from the visualizations.
-- Correctness of Python code.
+---
+
+### Task:
+1. **SQL**:
+   - Use the `Retail_Store_Sales.csv` dataset.
+   - Write a SQL query to:
+     - Group sales data by `Quarter` and `Region`.
+     - Calculate total sales and the average transaction value for each group.
+   - Save your query in "Exam11_SQL_Query.sql".
+   - Export the query results as "Exam11_SQL_Output.csv".
+
+2. **Python**:
+   - Use the SQL query results from part 1.
+   - Write a Python script to:
+     - Create a bar chart showing total sales by `Quarter` and `Region`.
+     - Customize the chart with labels and a legend.
+   - Save your script as "Exam11_Python_Script.py".
+   - Save the chart as "Exam11_Bar_Chart.png".
+
+---

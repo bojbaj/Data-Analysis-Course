@@ -1,21 +1,21 @@
-# Exam 6: Visualization Report
+# Week 2 Exam: Medium Level
 
 ## Objective
-Combine Excel and Python visualizations into a cohesive report.
+Test your ability to perform joins and aggregations in SQL.
 
-### Task
-1. Use the datasets: `sales_data.csv` and `marketing_data.csv`.
-2. Create visualizations using both Excel and Python.
-   - Excel: A pivot chart showing total sales by region and product category.
-   - Python: A Seaborn pair plot showing relationships among "Ad Spend", "Clicks", and "Sales".
-3. Write a short report summarizing insights gained from the visualizations.
+---
 
-### Deliverables
-- Excel file: `Exam_6_ExcelCharts.xlsx`.
-- Python script: `Exam_6_Script.py`.
-- Report: `Exam_6_Report.docx`.
+## Real job's task:
+The marketing team wants to see product performance in regions with high customer satisfaction.
 
-### Evaluation Criteria
-- Quality and insights of visualizations.
-- Integration of Excel and Python outputs.
-- Clarity and depth of the report.
+---
+
+### Task: SQL
+1. Use the `Retail_Store_Sales.csv` and `Customer_Satisfaction.csv` datasets.
+2. Write a SQL query to:
+   - Join the two datasets on `Region`.
+   - Calculate the average sales for regions where `Customer Satisfaction` > 85.
+3. Save your query in "Exam6_SQL_Query.sql".
+4. Export the query results as "Exam6_SQL_Output.csv".
+
+---

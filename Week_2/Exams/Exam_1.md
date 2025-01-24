@@ -1,19 +1,19 @@
-# Exam 1: Basic Excel Visualization
+# Week 2 Exam: Easy Level
 
 ## Objective
-Create basic charts using Excel to represent given data.
+Test your ability to create basic charts in Excel.
 
-### Task
-1. Open the provided dataset: `sales_data.csv`.
-2. Create the following charts:
-   - Bar chart showing total sales by region.
-   - Line chart showing monthly sales trends.
-   - Pie chart showing the percentage contribution of each product to total sales.
+---
 
-### Deliverables
-- Excel file with charts: `Exam_1_Charts.xlsx`.
+## Real job's task:
+The marketing department needs a visual representation of regional sales for a campaign report.
 
-### Evaluation Criteria
-- Correctness of data used in charts.
-- Clarity and accuracy of charts.
-- Appropriate titles and labels.
+---
+
+### Task: Excel
+1. Use the `Adidas_Sales_Data.csv` dataset.
+2. Create a bar chart showing total sales for each `Region`.
+3. Add appropriate labels to the chart (title, axes labels).
+4. Save the Excel file as "Exam1_Excel_Output.xlsx".
+
+---

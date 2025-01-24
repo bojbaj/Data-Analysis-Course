@@ -1,20 +1,22 @@
-# Exam 8: Advanced Plot Customization
+# Week 2 Exam: Hard Level
 
 ## Objective
-Create visually appealing and informative plots using advanced techniques.
+Test your ability to create advanced visualizations using Python.
 
-### Task
-1. Use the dataset: `marketing_data.csv`.
-2. Create the following:
-   - A grouped bar chart showing "Sales" by "Region" and "Product Type".
-   - A customized scatter plot with hue based on "Region" and size representing "Ad Spend".
-   - Use annotations to highlight key data points on the scatter plot.
+---
 
-### Deliverables
-- Python script: `Exam_8_Script.py`.
-- Plot images: `Exam_8_CustomPlots.png`.
+## Real job's task:
+The product team wants to compare sales performance across categories using a heatmap.
 
-### Evaluation Criteria
-- Creativity and customization of plots.
-- Effective use of hue, size, and annotations.
-- Quality of insights from the visualizations.
+---
+
+### Task: Python
+1. Use the `Adidas_Sales_Data.csv` dataset.
+2. Write a Python script to:
+   - Create a heatmap of `Sales` by `Region` and `Product Category`.
+   - Use the seaborn library for visualization.
+   - Add annotations and format the heatmap for clarity.
+3. Save your script as "Exam8_Python_Script.py".
+4. Save the heatmap as "Exam8_Heatmap.png".
+
+---
