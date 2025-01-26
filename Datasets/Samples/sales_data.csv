@@ -1,0 +1,6 @@
+SaleID,ProductID,CustomerName,SaleAmount,SaleDate
+1001,P001,John Smith,200,2025-01-01
+1002,P003,Jane Doe,450,2025-01-02
+1003,P002,Mike Tyson,150,2025-01-03
+1004,P004,Sarah Connor,500,2025-01-04
+1005,P001,Luke Skywalker,300,2025-01-05

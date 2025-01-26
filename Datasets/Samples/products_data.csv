@@ -1,0 +1,5 @@
+ProductID,ProductName,Category,UnitPrice
+P001,Smartphone,Electronics,200
+P002,Laptop,Electronics,800
+P003,Headphones,Accessories,150
+P004,Smartwatch,Electronics,300
