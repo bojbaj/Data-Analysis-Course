@@ -1,0 +1,81 @@
+ProductID,ProductName,Category,Price,Stock
+P001,Laptop,Electronics,1200,50
+P002,Smartphone,Electronics,800,120
+P003,Headphones,Electronics,100,300
+P004,Monitor,Electronics,350,200
+P005,Keyboard,Accessories,50,500
+P006,Mouse,Accessories,30,600
+P007,Smartwatch,Electronics,200,250
+P008,Tablet,Electronics,600,180
+P009,Charger,Accessories,20,350
+P010,USB Cable,Accessories,10,500
+P011,Laptop,Electronics,1150,60
+P012,Smartphone,Electronics,850,100
+P013,Headphones,Electronics,120,250
+P014,Monitor,Electronics,370,220
+P015,Keyboard,Accessories,60,450
+P016,Mouse,Accessories,35,500
+P017,Smartwatch,Electronics,220,200
+P018,Tablet,Electronics,580,150
+P019,Charger,Accessories,18,400
+P020,USB Cable,Accessories,12,450
+P021,Laptop,Electronics,1300,70
+P022,Smartphone,Electronics,780,130
+P023,Headphones,Electronics,110,280
+P024,Monitor,Electronics,380,180
+P025,Keyboard,Accessories,55,600
+P026,Mouse,Accessories,40,520
+P027,Smartwatch,Electronics,210,250
+P028,Tablet,Electronics,590,160
+P029,Charger,Accessories,22,500
+P030,USB Cable,Accessories,14,450
+P031,Laptop,Electronics,1250,75
+P032,Smartphone,Electronics,900,90
+P033,Headphones,Electronics,95,320
+P034,Monitor,Electronics,340,250
+P035,Keyboard,Accessories,45,350
+P036,Mouse,Accessories,38,600
+P037,Smartwatch,Electronics,230,180
+P038,Tablet,Electronics,620,170
+P039,Charger,Accessories,25,450
+P040,USB Cable,Accessories,11,500
+P041,Laptop,Electronics,1100,80
+P042,Smartphone,Electronics,850,110
+P043,Headphones,Electronics,105,280
+P044,Monitor,Electronics,360,210
+P045,Keyboard,Accessories,50,480
+P046,Mouse,Accessories,28,450
+P047,Smartwatch,Electronics,200,270
+P048,Tablet,Electronics,610,160
+P049,Charger,Accessories,21,460
+P050,USB Cable,Accessories,13,490
+P051,Laptop,Electronics,1400,90
+P052,Smartphone,Electronics,950,75
+P053,Headphones,Electronics,115,300
+P054,Monitor,Electronics,370,200
+P055,Keyboard,Accessories,65,450
+P056,Mouse,Accessories,32,560
+P057,Smartwatch,Electronics,240,230
+P058,Tablet,Electronics,590,140
+P059,Charger,Accessories,19,520
+P060,USB Cable,Accessories,9,510
+P061,Laptop,Electronics,1200,100
+P062,Smartphone,Electronics,800,110
+P063,Headphones,Electronics,125,250
+P064,Monitor,Electronics,330,180
+P065,Keyboard,Accessories,55,450
+P066,Mouse,Accessories,36,530
+P067,Smartwatch,Electronics,210,220
+P068,Tablet,Electronics,620,180
+P069,Charger,Accessories,22,540
+P070,USB Cable,Accessories,10,480
+P071,Laptop,Electronics,1100,85
+P072,Smartphone,Electronics,880,120
+P073,Headphones,Electronics,100,290
+P074,Monitor,Electronics,350,210
+P075,Keyboard,Accessories,60,550
+P076,Mouse,Accessories,42,580
+P077,Smartwatch,Electronics,190,250
+P078,Tablet,Electronics,650,200
+P079,Charger,Accessories,24,460
+P080,USB Cable,Accessories,12,470
