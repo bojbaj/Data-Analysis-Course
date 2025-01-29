@@ -2,7 +2,7 @@
 
 ## Task
 1. Use the `Dataset1.csv` file.
-2. Remove rows where the `Transaction ID` column is missing.
+2. Remove rows where the `Transaction ID` or `Price` column is missing.
 3. Save the cleaned dataset as "Practice1_Cleaned_Data.csv".
 
 ---
