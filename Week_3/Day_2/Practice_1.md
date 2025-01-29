@@ -1,10 +1,12 @@
-# Practice 1: Handling Missing Data in Excel
+# Day 2 Practice 1: Cleaning Text Data
 
-## Task:
-In this practice, you will work with **Dataset1.csv**, which contains sales data with missing values in the 'Price' and 'Discount' columns. Your task is to:
-1. Identify the missing values in the dataset.
-2. Replace missing values in the 'Price' column with the average price of the product category.
-3. Replace missing values in the 'Discount' column with the median discount.
+## Task
+1. Use the `Dataset1.csv` file.
+2. Remove extra spaces from the `First Name` and `Last Name` columns using the TRIM function.
+3. Combine the `First Name` and `Last Name` columns into a new column called `Full Name` using CONCATENATE.
+4. Save the cleaned dataset as "Practice1_Cleaned_Data.csv".
 
-## Expected Outcome:
-- The dataset should no longer have missing values in the 'Price' and 'Discount' columns.
+---
+
+## Deliverable
+Submit the cleaned dataset: "Practice1_Cleaned_Data.csv".

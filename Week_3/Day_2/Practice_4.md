@@ -1,17 +1,12 @@
-# Practice 4: Aggregating Data Using SQL
+# Day 2 Practice 4: Creating Dropdown Lists
 
-## Task:
-Using **Dataset2.csv** (Product data), write SQL queries to:
-1. Find the average price of products in each category.
-2. Identify the product with the highest price in each category.
+## Task
+1. Use the `Dataset2.csv` file.
+2. Create a dropdown list for the `Category` column using data validation.
+3. Ensure the dropdown options are: "Electronics", "Clothing", and "Furniture".
+4. Save the cleaned dataset as "Practice4_Validated_Data.csv".
 
-## SQL Queries to Write:
-1. Find the average price by category:
-   SELECT category, AVG(price)
-   FROM products
-   GROUP BY category;
+---
 
-2. Identify the highest price by category:
-   SELECT category, MAX(price)
-   FROM products
-   GROUP BY category;
+## Deliverable
+Submit the cleaned dataset: "Practice4_Validated_Data.csv".

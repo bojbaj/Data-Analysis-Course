@@ -1,8 +1,11 @@
-# Practice 3: Data Normalization in Python
+# Day 2 Practice 3: Merging Data with VLOOKUP
 
-## Task:
-Using **Dataset3.csv** (Customer data), normalize the 'Age' column values to a range of 0 to 1 using the following formula:
-normalized_age = (age - min(age)) / (max(age) - min(age))
+## Task
+1. Use the `Dataset1.csv` and `Dataset3.csv` files.
+2. Use VLOOKUP to add the `City` column from `Dataset3.csv` to `Dataset1.csv` based on the `Customer ID` column.
+3. Save the merged dataset as "Practice3_Merged_Data.csv".
 
-## Expected Outcome:
-- You should have a new column in the dataset called 'Normalized_Age' with the normalized age values.
+---
+
+## Deliverable
+Submit the merged dataset: "Practice3_Merged_Data.csv".

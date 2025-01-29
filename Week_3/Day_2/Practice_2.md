@@ -1,18 +1,11 @@
-# Practice 2: Identifying and Correcting Data Inconsistencies in SQL
+# Day 2 Practice 2: Highlighting Duplicates
 
-## Task:
-Using **Dataset2.csv** (Product data), you will write SQL queries to:
-1. Find all duplicate product entries based on product name.
-2. Correct inconsistent product names by updating them to the correct format.
+## Task
+1. Use the `Dataset2.csv` file.
+2. Apply conditional formatting to highlight duplicate values in the `Product` column.
+3. Save the cleaned dataset as "Practice2_Highlighted_Data.csv".
 
-## SQL Queries to Write:
-1. Find duplicates:
-   SELECT product_name, COUNT(*)
-   FROM products
-   GROUP BY product_name
-   HAVING COUNT(*) > 1;
+---
 
-2. Correct inconsistencies:
-   UPDATE products
-   SET product_name = 'Correct Product Name'
-   WHERE product_name = 'Incorrect Product Name';
+## Deliverable
+Submit the cleaned dataset: "Practice2_Highlighted_Data.csv".

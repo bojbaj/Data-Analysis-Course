@@ -1,61 +1,21 @@
-CustomerID,Name,Age,Location,ProductPurchased,AmountSpent
-C001,John Doe,25,New York,Laptop,1200
-C002,Jane Smith,30,California,Smartphone,800
-C003,James Johnson,35,Texas,Headphones,100
-C004,Mary Brown,28,Florida,Monitor,350
-C005,Michael Williams,40,Illinois,Keyboard,50
-C006,Emily Jones,22,Georgia,Mouse,30
-C007,David Garcia,32,Ohio,Smartwatch,200
-C008,Olivia Martinez,27,Virginia,Tablet,600
-C009,William Rodriguez,45,New York,Charger,20
-C010,Susan Lee,29,California,USB Cable,10
-C011,John Doe,26,Texas,Laptop,1150
-C012,Jane Smith,31,Florida,Smartphone,850
-C013,James Johnson,36,Illinois,Headphones,120
-C014,Mary Brown,29,Ohio,Monitor,370
-C015,Michael Williams,41,Georgia,Keyboard,60
-C016,Emily Jones,23,New York,Mouse,35
-C017,David Garcia,33,California,Smartwatch,220
-C018,Olivia Martinez,28,Texas,Tablet,580
-C019,William Rodriguez,46,Virginia,Charger,18
-C020,Susan Lee,30,Florida,USB Cable,12
-C021,John Doe,27,Illinois,Laptop,1300
-C022,Jane Smith,32,Ohio,Smartphone,780
-C023,James Johnson,37,Georgia,Headphones,110
-C024,Mary Brown,30,California,Monitor,380
-C025,Michael Williams,42,Texas,Keyboard,55
-C026,Emily Jones,24,Virginia,Mouse,40
-C027,David Garcia,34,Florida,Smartwatch,210
-C028,Olivia Martinez,29,Georgia,Tablet,590
-C029,William Rodriguez,47,New York,Charger,22
-C030,Susan Lee,31,California,USB Cable,14
-C031,John Doe,28,Texas,Laptop,1250
-C032,Jane Smith,33,Florida,Smartphone,900
-C033,James Johnson,38,Illinois,Headphones,95
-C034,Mary Brown,31,Virginia,Monitor,340
-C035,Michael Williams,43,Georgia,Keyboard,45
-C036,Emily Jones,25,Ohio,Mouse,38
-C037,David Garcia,35,California,Smartwatch,230
-C038,Olivia Martinez,30,Texas,Tablet,620
-C039,William Rodriguez,48,Florida,Charger,25
-C040,Susan Lee,32,Virginia,USB Cable,11
-C041,John Doe,29,Georgia,Laptop,1100
-C042,Jane Smith,34,New York,Smartphone,850
-C043,James Johnson,39,California,Headphones,105
-C044,Mary Brown,32,Texas,Monitor,360
-C045,Michael Williams,44,Illinois,Keyboard,50
-C046,Emily Jones,26,Ohio,Mouse,28
-C047,David Garcia,36,Florida,Smartwatch,200
-C048,Olivia Martinez,31,Georgia,Tablet,610
-C049,William Rodriguez,49,New York,Charger,21
-C050,Susan Lee,33,California,USB Cable,13
-C051,John Doe,30,Virginia,Laptop,1400
-C052,Jane Smith,35,Texas,Smartphone,950
-C053,James Johnson,40,Illinois,Headphones,115
-C054,Mary Brown,33,California,Monitor,370
-C055,Michael Williams,45,Florida,Keyboard,65
-C056,Emily Jones,27,Ohio,Mouse,32
-C057,David Garcia,37,Texas,Smartwatch,240
-C058,Olivia Martinez,32,Georgia,Tablet,590
-C059,William Rodriguez,50,New York,Charger,19
-C060,Susan Lee,34,California,USB Cable,9
+Customer ID,City
+CUST_01,New York
+CUST_02,Los Angeles
+CUST_03,New York
+CUST_04,Chicago
+CUST_05,Houston
+CUST_06,Miami
+CUST_07,San Francisco
+CUST_08,Seattle
+CUST_09,Boston
+CUST_10,Austin
+CUST_11,Denver
+CUST_12,Atlanta
+CUST_13,Washington
+CUST_14,Philadelphia
+CUST_15,Phoenix
+CUST_16,Dallas
+CUST_17,Detroit
+CUST_18,Portland
+CUST_19,Las Vegas
+CUST_20,Orlando

@@ -1,10 +1,14 @@
-# Practice 6: Data Transformation in Python
+# Day 2 Practice 6: Combining Techniques
 
-## Task:
-Using **Dataset1.csv** (Sales data), apply the following transformations:
-1. Remove any rows where 'Sales' is less than 500.
-2. Convert all 'Product' names to lowercase.
+## Task
+1. Use the `Dataset1.csv` and `Dataset3.csv` files.
+2. Perform the following cleaning steps:
+   - Remove extra spaces from the `First Name` and `Last Name` columns.
+   - Highlight duplicate values in the `Transaction ID` column.
+   - Use VLOOKUP to add the `City` column from `Dataset3.csv`.
+3. Save the cleaned dataset as "Practice6_Final_Cleaned_Data.csv".
 
-## Expected Outcome:
-- The dataset should have no rows with 'Sales' less than 500.
-- All 'Product' names should be in lowercase.
+---
+
+## Deliverable
+Submit the cleaned dataset: "Practice6_Final_Cleaned_Data.csv".
