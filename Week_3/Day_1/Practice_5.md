@@ -1,17 +1,11 @@
-# Practice 5: Handling Missing Data in Excel
+# Day 1 Practice 5: Handling Outliers
 
 ## Task
-Identify and fill missing values in a dataset using Excel's data cleaning tools.
+1. Use the `Dataset2.csv` file.
+2. Identify and remove outliers in the `Price` column using the IQR method.
+3. Save the cleaned dataset as "Practice5_Outliers_Removed.csv".
 
-### Dataset(s) to use:
-- **Dataset2.csv**
+---
 
-## Steps
-1. Open the dataset in Excel.
-2. Identify missing values using **Conditional Formatting**.
-3. Fill missing values using the **AVERAGE** or **MEDIAN** function where appropriate.
-4. Save the cleaned file.
-
-## Deliverables
-Submit:
-1. The cleaned Excel file.
+## Deliverable
+Submit the cleaned dataset: "Practice5_Outliers_Removed.csv".

@@ -1,16 +1,11 @@
-# Practice 4: Cleaning Data Using SQL Update Command
+# Day 1 Practice 4: Standardizing Text
 
 ## Task
-Use the `UPDATE` statement to clean the dataset. For instance, standardize email addresses by converting them all to lowercase.
+1. Use the `Dataset1.csv` file.
+2. Convert the `Category` column to lowercase.
+3. Save the cleaned dataset as "Practice4_Standardized_Data.csv".
 
-### Dataset(s) to use:
-- **Dataset1.csv** (Imported into SQL Database)
+---
 
-## Steps
-1. Write an `UPDATE` query to convert all email addresses to lowercase.
-2. Test the query and view the results.
-
-## Deliverables
-Submit:
-1. The SQL script.
-2. A screenshot showing the updated data.
+## Deliverable
+Submit the cleaned dataset: "Practice4_Standardized_Data.csv".

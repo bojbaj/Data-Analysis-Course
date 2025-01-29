@@ -1,101 +1,16 @@
-ID,ProductName,Category,Price,Quantity
-1,Smartphone,Electronics,799.99,50
-2,Laptop,Electronics,999.99,30
-3,Tablet,Electronics,499.99,100
-4,Headphones,Accessories,199.99,150
-5,Smartwatch,Accessories,299.99,120
-6,Keyboard,Accessories,89.99,200
-7,Mouse,Accessories,49.99,250
-8,Monitor,Electronics,299.99,75
-9,TV,Electronics,1499.99,20
-10,Speaker,Electronics,299.99,100
-11,Printer,Electronics,199.99,60
-12,Camera,Electronics,599.99,50
-13,Charger,Accessories,29.99,300
-14,Case,Accessories,19.99,400
-15,Power Bank,Accessories,39.99,350
-16,USB Cable,Accessories,9.99,500
-17,Router,Electronics,129.99,120
-18,Webcam,Electronics,99.99,200
-19,Projector,Electronics,999.99,30
-20,Microphone,Accessories,79.99,150
-21,External Hard Drive,Electronics,89.99,120
-22,Flash Drive,Accessories,19.99,450
-23,Smart Light Bulb,Home,49.99,200
-24,Smart Plug,Home,29.99,250
-25,Smart Thermostat,Home,249.99,100
-26,Blender,Home,99.99,120
-27,Coffee Maker,Home,79.99,150
-28,Toaster,Home,49.99,100
-29,Fridge,Home,599.99,40
-30,Washer,Home,399.99,50
-31,Microwave,Home,129.99,80
-32,Air Conditioner,Home,299.99,30
-33,Vacuum Cleaner,Home,149.99,150
-34,Electric Grill,Home,89.99,100
-35,Stand Mixer,Home,249.99,40
-36,Food Processor,Home,159.99,60
-37,Hair Dryer,Home,59.99,200
-38,Electric Kettle,Home,39.99,250
-39,Shower Head,Home,49.99,300
-40,Iron,Home,39.99,350
-41,Paint Sprayer,Home,129.99,40
-42,Pressure Washer,Home,199.99,60
-43,Gas Grill,Home,499.99,25
-44,Lawn Mower,Home,229.99,70
-45,Leaf Blower,Home,159.99,90
-46,Chainsaw,Home,239.99,60
-47,Power Drill,Home,89.99,180
-48,Saw,Home,39.99,200
-49,Shovel,Home,19.99,250
-50,Hammer,Home,9.99,300
-51,Phone Case,Accessories,19.99,400
-52,Tablet Stand,Accessories,29.99,250
-53,Wireless Charger,Accessories,49.99,150
-54,Mouse Pad,Accessories,19.99,200
-55,Smartphone Stand,Accessories,19.99,500
-56,Car Charger,Accessories,29.99,200
-57,Laptop Sleeve,Accessories,49.99,100
-58,Camera Lens,Accessories,249.99,50
-59,Tripod,Accessories,79.99,80
-60,Action Camera,Electronics,199.99,60
-61,Electric Toothbrush,Home,49.99,200
-62,Hair Clipper,Home,29.99,150
-63,Electric Shaver,Home,99.99,100
-64,Scales,Home,29.99,300
-65,Shaver,Home,39.99,350
-66,Steamer,Home,69.99,80
-67,Juicer,Home,49.99,100
-68,Coffee Grinder,Home,99.99,150
-69,Coffee Beans,Home,19.99,400
-70,Tea Kettle,Home,39.99,250
-71,Milk Frother,Home,29.99,350
-72,Electric Heater,Home,99.99,50
-73,Space Heater,Home,129.99,40
-74,Heater Fan,Home,79.99,60
-75,Electric Fan,Home,59.99,150
-76,Humidifier,Home,49.99,200
-77,Dehumidifier,Home,59.99,250
-78,Air Purifier,Home,159.99,100
-79,Water Filter,Home,39.99,300
-80,Water Bottle,Home,9.99,500
-81,Smart Fridge,Home,1299.99,10
-82,Air Fryer,Home,159.99,60
-83,Pressure Cooker,Home,129.99,120
-84,Slow Cooker,Home,99.99,150
-85,Deep Fryer,Home,79.99,200
-86,Ice Cream Maker,Home,249.99,50
-87,Food Storage,Home,29.99,250
-88,Milk Bottle,Home,19.99,300
-89,Bread Maker,Home,139.99,100
-90,Smart Speakers,Electronics,99.99,120
-91,Smart Lock,Home,199.99,80
-92,Security Camera,Home,129.99,100
-93,Alarm System,Home,249.99,50
-94,Smart Vacuum,Home,249.99,120
-95,Smart Doorbell,Home,179.99,200
-96,Smart Window Blinds,Home,299.99,60
-97,Smart Air Purifier,Home,159.99,100
-98,Smart Security Light,Home,69.99,200
-99,Smart Water Leak Sensor,Home,89.99,150
-100,Smart Smoke Detector,Home,129.99,180
+Customer ID,Product,Price,Quantity,Discount
+CUST_01,Product A,100.0,2,10
+CUST_02,Product B,,1,5
+CUST_03,Product C,150.0,3,15
+CUST_04,Product D,200.0,1,20
+CUST_05,Product E,120.0,2,10
+CUST_06,Product F,50.0,1,5
+CUST_07,Product G,300.0,2,25
+CUST_08,Product H,,3,10
+CUST_09,Product I,250.0,1,15
+CUST_10,Product J,180.0,2,20
+CUST_11,Product K,60.0,1,5
+CUST_12,Product L,220.0,3,30
+CUST_13,Product M,,1,10
+CUST_14,Product N,150.0,2,15
+CUST_15,Product O,70.0,1,5

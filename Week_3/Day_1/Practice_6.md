@@ -1,19 +1,11 @@
-# Practice 6: Transforming Data with Excel Formulas
+# Day 1 Practice 6: Data Validation
 
 ## Task
-Apply various Excel formulas to clean and transform data:
-1. Remove leading/trailing spaces from names.
-2. Standardize date formats.
-3. Extract year from date column.
+1. Use the `Dataset3.csv` file.
+2. Ensure the `Age` column contains values between 0 and 120.
+3. Save the cleaned dataset as "Practice6_Validated_Data.csv".
 
-### Dataset(s) to use:
-- **Dataset3.csv**
+---
 
-## Steps
-1. Open the dataset in Excel.
-2. Use the **TRIM**, **TEXT**, and **YEAR** functions to clean the data.
-3. Save the cleaned file.
-
-## Deliverables
-Submit:
-1. The cleaned Excel file.
+## Deliverable
+Submit the cleaned dataset: "Practice6_Validated_Data.csv".

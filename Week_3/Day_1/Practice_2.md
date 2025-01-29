@@ -1,16 +1,11 @@
-# Practice 2: Removing Duplicates in Excel
+# Day 1 Practice 2: Filling Missing Values
 
 ## Task
-Clean the dataset by removing duplicate rows while preserving the original data.
+1. Use the `Dataset2.csv` file.
+2. Fill missing values in the `Price` column with the median price.
+3. Save the cleaned dataset as "Practice2_Filled_Data.csv".
 
-### Dataset(s) to use:
-- **Dataset1.csv**
+---
 
-## Steps
-1. Create a copy of the dataset.
-2. Use Excel’s **Remove Duplicates** feature to eliminate duplicates.
-3. Save the cleaned dataset as a new file.
-
-## Deliverables
-Submit:
-1. The cleaned Excel file.
+## Deliverable
+Submit the cleaned dataset: "Practice2_Filled_Data.csv".

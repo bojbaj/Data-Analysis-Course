@@ -1,93 +1,101 @@
-# Day 1: Introduction to Data Cleaning and Transformation
+# Day 1 Content: Introduction to Data Cleaning
 
-## Introduction
-Data cleaning and transformation are critical steps in the data analysis process. Before any meaningful analysis can take place, data must be accurate, consistent, and structured. Poor data quality can lead to misleading insights and incorrect decisions.
+## Overview
+Data cleaning is the process of preparing raw data for analysis by identifying and correcting errors, inconsistencies, and missing values. Clean data ensures accurate and reliable analysis. Today, you will learn the fundamentals of data cleaning, including handling missing data, removing duplicates, and standardizing data formats.
 
 ---
 
-## Section 1: What is Data Cleaning?  
-Data cleaning is the process of identifying and correcting (or removing) errors and inconsistencies in a dataset to improve its quality. Common issues include:
-- Missing values.
-- Incorrect or inconsistent formats.
-- Outliers and duplicate data.
-- Misaligned or unstructured data.
+## 1. What is Data Cleaning?
+Data cleaning involves:
+- Identifying and correcting errors in datasets.
+- Handling missing or incomplete data.
+- Removing duplicate entries.
+- Standardizing data formats for consistency.
 
-### Importance of Data Cleaning
+### Why is Data Cleaning Important?
 - Ensures data accuracy and reliability.
-- Improves the quality of insights derived from data.
-- Facilitates effective analysis and decision-making.
+- Improves the quality of analysis and decision-making.
+- Reduces errors in machine learning models and statistical analyses.
 
 ---
 
-## Section 2: Introduction to Excel for Data Cleaning
-### Key Excel Features for Cleaning Data
-1. **Filters and Sorting**:
-   - Quickly identify and isolate outliers or missing data.
-   - Example: Filter rows where values in a column are blank.
+## 2. Identifying Missing Data
+Missing data can occur due to various reasons, such as data entry errors or incomplete records. Common techniques to handle missing data include:
 
-2. **Conditional Formatting**:
-   - Highlight errors, duplicates, or outliers visually.
+### 2.1 Removing Rows with Missing Values
+- Use this technique when missing data is minimal and removing rows won’t significantly impact the dataset.
+- Example: In Excel, use the "Remove Duplicates" feature. In Python, use the `dropna()` function.
 
-3. **Basic Functions**:
-   - `IF`: Conditional operations.
-   - `TRIM`: Remove leading/trailing spaces.
-   - `LEN`: Identify unusually long/short entries.
-   - `CLEAN`: Remove non-printable characters.
-
-4. **Data Validation**:
-   - Restrict inputs to specific formats (e.g., dates or numbers).
-
-5. **Find and Replace**:
-   - Replace incorrect values or standardize formats.
+### 2.2 Filling Missing Values
+- Replace missing values with a default value, mean, median, or mode.
+- Example: In Excel, use "Fill Down" or "Fill with Mean." In Python, use the `fillna()` function.
 
 ---
 
-## Section 3: Introduction to SQL for Data Cleaning
-SQL is a powerful language for working with structured data. You can use it to:
-- Filter out incomplete or incorrect rows.
-- Standardize column values.
-- Aggregate data to identify inconsistencies.
+## 3. Removing Duplicates
+Duplicate entries can skew analysis results. Techniques to remove duplicates include:
 
-### Key SQL Commands for Data Cleaning
-1. **SELECT and WHERE**:
-   - Extract specific subsets of data.
-   - Example: Identify rows with NULL values.
+### 3.1 Identifying Duplicates
+- Check for duplicate rows based on unique identifiers (e.g., transaction IDs).
+- Example: In Excel, use the "Remove Duplicates" feature. In Python, use the `duplicated()` function.
 
-2. **UPDATE**:
-   - Correct incorrect entries directly in the database.
-
-3. **CASE Statements**:
-   - Transform data values conditionally.
-
-4. **Aggregate Functions**:
-   - Use `COUNT`, `SUM`, `AVG`, etc., to detect anomalies.
+### 3.2 Removing Duplicates
+- Remove duplicate rows to ensure each entry is unique.
+- Example: In Excel, use "Remove Duplicates." In Python, use the `drop_duplicates()` function.
 
 ---
 
-## Section 4: Python for Automating Data Cleaning
-Python is an excellent tool for automating repetitive cleaning tasks, particularly when working with large datasets.
+## 4. Standardizing Data Formats
+Inconsistent data formats can lead to errors in analysis. Standardization techniques include:
 
-### Libraries for Data Cleaning
-1. **Pandas**:
-   - Handle missing values with `fillna` or `dropna`.
-   - Rename or reorder columns using `rename` and `sort_index`.
-   - Identify duplicates with `duplicated`.
+### 4.1 Text Formatting
+- Convert text to a consistent case (e.g., lowercase or uppercase).
+- Example: In Excel, use "Text to Columns" or "Find and Replace." In Python, use the `str.lower()` function.
 
-2. **Numpy**:
-   - Handle numerical operations efficiently.
-
-3. **OpenPyXL**:
-   - Automate Excel cleaning tasks directly from Python.
+### 4.2 Date and Time Formatting
+- Ensure dates and times follow a consistent format.
+- Example: In Excel, use "Format Cells." In Python, use the `pd.to_datetime()` function.
 
 ---
 
-## Section 5: Best Practices
-1. Always back up raw data before cleaning.
-2. Document every cleaning step for reproducibility.
-3. Validate cleaned data to ensure it meets quality standards.
-4. Use appropriate tools based on the dataset size and complexity.
+## 5. Handling Outliers
+Outliers are data points that deviate significantly from the rest of the dataset. Techniques to handle outliers include:
+
+### 5.1 Identifying Outliers
+- Use statistical methods like the interquartile range (IQR) or z-scores.
+- Example: In Excel, use conditional formatting. In Python, use the `describe()` function.
+
+### 5.2 Removing or Adjusting Outliers
+- Remove outliers if they are errors or adjust them if they are valid but extreme values.
+- Example: In Excel, use filters. In Python, use the `clip()` function.
 
 ---
 
-## Summary
-Today, you learned the foundational concepts of data cleaning and explored the tools available in Excel, SQL, and Python. In the next sessions, you'll dive deeper into practical applications, solving real-world problems using these tools.
+## 6. Data Validation
+Data validation ensures the dataset meets specific criteria. Techniques include:
+
+### 6.1 Checking Data Types
+- Ensure each column has the correct data type (e.g., numeric, text, date).
+- Example: In Excel, use "Data Validation." In Python, use the `dtypes` attribute.
+
+### 6.2 Validating Data Ranges
+- Ensure values fall within expected ranges (e.g., age between 0 and 120).
+- Example: In Excel, use "Data Validation." In Python, use conditional statements.
+
+---
+
+## 7. Practice Exercises
+Use the provided datasets to complete the following tasks:
+- Practice 1: Remove rows with missing values.
+- Practice 2: Fill missing values with the median.
+- Practice 3: Remove duplicate entries.
+- Practice 4: Standardize text formatting.
+- Practice 5: Identify and handle outliers.
+- Practice 6: Validate data types and ranges.
+
+---
+
+## 8. Advanced Reading
+For further learning:
+- [Data Cleaning Best Practices](https://towardsdatascience.com/data-cleaning-best-practices)
+- [Handling Missing Data in Python](https://realpython.com/python-data-cleaning-numpy-pandas/)

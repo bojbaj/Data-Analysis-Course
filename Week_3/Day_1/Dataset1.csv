@@ -1,101 +1,16 @@
-ID,Name,Date,Score,Email
-1,John Doe,2025-01-15,85,john.doe@example.com
-2,Jane Smith,2025-01-16,90,jane.smith@example.com
-3,Sam Brown,2025-01-17,92,sam.brown@example.com
-4,Chris White,2025-01-18,75,chris.white@example.com
-5,Emily Davis,2025-01-19,88,emily.davis@example.com
-6,Michael Johnson,2025-01-20,85,michael.johnson@example.com
-7,Linda Martinez,2025-01-21,95,linda.martinez@example.com
-8,James Wilson,2025-01-22,78,james.wilson@example.com
-9,Patricia Lee,2025-01-23,82,patricia.lee@example.com
-10,David Clark,2025-01-24,91,david.clark@example.com
-11,Daniel Young,2025-01-25,87,daniel.young@example.com
-12,Barbara Lewis,2025-01-26,84,barbara.lewis@example.com
-13,Joseph Walker,2025-01-27,77,joseph.walker@example.com
-14,Susan Hall,2025-01-28,90,susan.hall@example.com
-15,Charles Allen,2025-01-29,80,charles.allen@example.com
-16,Thomas Scott,2025-01-30,89,thomas.scott@example.com
-17,Rebecca Adams,2025-01-31,94,rebecca.adams@example.com
-18,Andrew Nelson,2025-02-01,86,andy.nelson@example.com
-19,Sharon King,2025-02-02,75,sharon.king@example.com
-20,Kevin Green,2025-02-03,93,kevin.green@example.com
-21,Mary Harris,2025-02-04,88,mary.harris@example.com
-22,Joseph Young,2025-02-05,92,joseph.young@example.com
-23,Lisa Lee,2025-02-06,78,lisa.lee@example.com
-24,William Carter,2025-02-07,91,william.carter@example.com
-25,Rebecca White,2025-02-08,84,rebecca.white@example.com
-26,Brian Perez,2025-02-09,86,brian.perez@example.com
-27,Joseph Sanchez,2025-02-10,90,joseph.sanchez@example.com
-28,Amy Mitchell,2025-02-11,82,amy.mitchell@example.com
-29,Gregory Brown,2025-02-12,79,gregory.brown@example.com
-30,Lauren Murphy,2025-02-13,88,lauren.murphy@example.com
-31,David Wright,2025-02-14,94,dan.wright@example.com
-32,Susan Green,2025-02-15,87,susan.green@example.com
-33,James Walker,2025-02-16,92,james.walker@example.com
-34,Patricia Moore,2025-02-17,75,patricia.moore@example.com
-35,David Thomas,2025-02-18,85,david.thomas@example.com
-36,Linda Taylor,2025-02-19,80,linda.taylor@example.com
-37,Michael White,2025-02-20,89,michael.white@example.com
-38,Emma Johnson,2025-02-21,92,emma.johnson@example.com
-39,Robert Lee,2025-02-22,78,robert.lee@example.com
-40,William Scott,2025-02-23,80,william.scott@example.com
-41,Karen Allen,2025-02-24,90,karen.allen@example.com
-42,Jessica Harris,2025-02-25,94,jessica.harris@example.com
-43,James Nelson,2025-02-26,92,james.nelson@example.com
-44,Michael Clark,2025-02-27,77,michael.clark@example.com
-45,Emily Young,2025-02-28,81,emily.young@example.com
-46,Joshua Baker,2025-03-01,79,joshua.baker@example.com
-47,David Wilson,2025-03-02,86,david.wilson@example.com
-48,Michelle King,2025-03-03,85,michelle.king@example.com
-49,Amy White,2025-03-04,78,amy.white@example.com
-50,Mark Green,2025-03-05,87,mark.green@example.com
-51,Joseph Clark,2025-03-06,89,joe.clark@example.com
-52,Patricia Scott,2025-03-07,91,patricia.scott@example.com
-53,Michael Walker,2025-03-08,75,michael.walker@example.com
-54,John Harris,2025-03-09,92,john.harris@example.com
-55,Paul Young,2025-03-10,93,paul.young@example.com
-56,Jessica Allen,2025-03-11,85,jessica.allen@example.com
-57,Patricia Wright,2025-03-12,89,patricia.wright@example.com
-58,Mark Lee,2025-03-13,77,mark.lee@example.com
-59,Elizabeth Davis,2025-03-14,91,elizabeth.davis@example.com
-60,Amy Green,2025-03-15,84,amy.green@example.com
-61,Robert White,2025-03-16,76,robert.white@example.com
-62,Christopher Harris,2025-03-17,93,christopher.harris@example.com
-63,Susan Allen,2025-03-18,88,susan.allen@example.com
-64,David Brown,2025-03-19,95,david.brown@example.com
-65,Michael Wilson,2025-03-20,81,michael.wilson@example.com
-66,Linda Harris,2025-03-21,94,linda.harris@example.com
-67,Joseph King,2025-03-22,79,joe.king@example.com
-68,Elizabeth Green,2025-03-23,87,elizabeth.green@example.com
-69,John Scott,2025-03-24,82,john.scott@example.com
-70,Jessica Clark,2025-03-25,76,jessica.clark@example.com
-71,David Mitchell,2025-03-26,92,david.mitchell@example.com
-72,Michael Thomas,2025-03-27,90,michael.thomas@example.com
-73,Lisa Wilson,2025-03-28,88,lisa.wilson@example.com
-74,Susan Brown,2025-03-29,83,susan.brown@example.com
-75,Amy Adams,2025-03-30,95,amy.adams@example.com
-76,Robert Scott,2025-03-31,91,robert.scott@example.com
-77,Jessica Young,2025-04-01,77,jessica.young@example.com
-78,David Harris,2025-04-02,85,david.harris@example.com
-79,Michael Allen,2025-04-03,90,michael.allen@example.com
-80,Jessica Taylor,2025-04-04,92,jesse.taylor@example.com
-81,Thomas White,2025-04-05,94,thomas.white@example.com
-82,Emily Mitchell,2025-04-06,78,emily.mitchell@example.com
-83,Susan Thomas,2025-04-07,81,susan.thomas@example.com
-84,Joseph Wilson,2025-04-08,95,joe.wilson@example.com
-85,Rebecca Clark,2025-04-09,87,rebecca.clark@example.com
-86,David Green,2025-04-10,80,dan.green@example.com
-87,Patricia Allen,2025-04-11,76,patricia.allen@example.com
-88,Jessica Mitchell,2025-04-12,89,jessica.mitchell@example.com
-89,Amy Harris,2025-04-13,92,amy.harris@example.com
-90,Michael Brown,2025-04-14,75,michael.brown@example.com
-91,Joshua Davis,2025-04-15,83,joshua.davis@example.com
-92,Susan White,2025-04-16,80,susan.white@example.com
-93,Lisa Clark,2025-04-17,91,lisa.clark@example.com
-94,James Mitchell,2025-04-18,94,james.mitchell@example.com
-95,Amy Walker,2025-04-19,86,amy.walker@example.com
-96,Joseph Taylor,2025-04-20,89,joe.taylor@example.com
-97,Patricia Brown,2025-04-21,81,patricia.brown@example.com
-98,Susan Harris,2025-04-22,92,susan.harris@example.com
-99,John Thomas,2025-04-23,80,john.thomas@example.com
-100,David Adams,2025-04-24,90,david.adams@example.com
+Transaction ID,Customer ID,Category,Price,Quantity,Transaction Date
+TXN_001,CUST_01,Electronics,100.0,2,2024-01-01
+TXN_002,CUST_02,Clothing,,1,2024-01-02
+TXN_003,CUST_03,Electronics,150.0,3,2024-01-03
+TXN_004,CUST_04,Furniture,200.0,1,2024-01-04
+TXN_005,CUST_05,Electronics,120.0,2,
+TXN_006,CUST_06,Clothing,50.0,1,2024-01-06
+TXN_007,CUST_07,Electronics,300.0,2,2024-01-07
+TXN_008,CUST_08,Clothing,,3,2024-01-08
+TXN_009,CUST_09,Furniture,250.0,1,2024-01-09
+TXN_010,CUST_10,Electronics,180.0,2,2024-01-10
+TXN_011,CUST_11,Clothing,60.0,1,
+TXN_012,CUST_12,Electronics,220.0,3,2024-01-12
+TXN_013,CUST_13,Furniture,,1,2024-01-13
+TXN_014,CUST_14,Electronics,150.0,2,2024-01-14
+TXN_015,CUST_15,Clothing,70.0,1,2024-01-15
