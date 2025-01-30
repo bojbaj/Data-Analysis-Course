@@ -1,0 +1,16 @@
+Customer ID,Name,Region,Total Spent,Last Purchase Date
+CUST_01,John Doe,North America,500.0,2024-01-01
+CUST_02,Jane Smith,Europe,300.0,2024-01-02
+CUST_03,John Doe,Asia,450.0,2024-01-03
+CUST_04,Alice Brown,North America,600.0,2024-01-04
+CUST_05,Bob Johnson,Europe,200.0,2024-01-05
+CUST_06,Emma Davis,Asia,350.0,2024-01-06
+CUST_07,Michael Lee,North America,400.0,2024-01-07
+CUST_08,Sarah Wilson,Europe,250.0,2024-01-08
+CUST_09,David Clark,Asia,550.0,2024-01-09
+CUST_10,Laura Martinez,North America,700.0,2024-01-10
+CUST_11,James Garcia,Europe,150.0,2024-01-11
+CUST_12,Sophia Rodriguez,Asia,800.0,2024-01-12
+CUST_13,Daniel Hernandez,North America,900.0,2024-01-13
+CUST_14,Emily Lopez,Europe,1000.0,2024-01-14
+CUST_15,William Gonzalez,Asia,1200.0,2024-01-15
