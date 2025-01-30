@@ -1,0 +1,16 @@
+Customer ID,Name,Age,Gender,City
+CUST_01,John Doe,30,Male,New York
+CUST_02,Jane Smith,25,Female,Los Angeles
+CUST_03,John Doe,30,Male,New York
+CUST_04,Alice Brown,25,Female,Chicago
+CUST_05,Bob Johnson,150,Male,Houston
+CUST_06,Emma Davis,28,Female,Miami
+CUST_07,Michael Lee,35,Male,San Francisco
+CUST_08,Sarah Wilson,22,Female,Seattle
+CUST_09,David Clark,40,Male,Boston
+CUST_10,Laura Martinez,22,Female,Austin
+CUST_11,James Garcia,29,Male,Denver
+CUST_12,Sophia Rodriguez,33,Female,Atlanta
+CUST_13,Daniel Hernandez,45,Male,Washington
+CUST_14,Emily Lopez,27,Female,Philadelphia
+CUST_15,William Gonzalez,31,Male,Phoenix
