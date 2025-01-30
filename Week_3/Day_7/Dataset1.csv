@@ -1,0 +1,16 @@
+Transaction ID,Customer ID,Region,Product,Price,Quantity,Transaction Date
+TXN_001,CUST_01,North America,Product A,100.0,2,2024-01-01
+TXN_002,CUST_02,Europe,Product B,150.0,1,2024-01-02
+TXN_003,CUST_03,Asia,Product C,200.0,3,2024-01-03
+TXN_004,CUST_04,North America,Product D,250.0,1,2024-01-04
+TXN_005,CUST_05,Europe,Product E,120.0,2,2024-01-05
+TXN_006,CUST_06,Asia,Product F,50.0,1,2024-01-06
+TXN_007,CUST_07,North America,Product G,300.0,2,2024-01-07
+TXN_008,CUST_08,Europe,Product H,180.0,3,2024-01-08
+TXN_009,CUST_09,Asia,Product I,220.0,1,2024-01-09
+TXN_010,CUST_10,North America,Product J,150.0,2,2024-01-10
+TXN_011,CUST_11,Europe,Product K,60.0,1,2024-01-11
+TXN_012,CUST_12,Asia,Product L,220.0,3,2024-01-12
+TXN_013,CUST_13,North America,Product M,250.0,1,2024-01-13
+TXN_014,CUST_14,Europe,Product N,150.0,2,2024-01-14
+TXN_015,CUST_15,Asia,Product O,70.0,1,2024-01-15
