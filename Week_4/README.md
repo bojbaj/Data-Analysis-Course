@@ -1,89 +1,87 @@
 # Week 4: Statistical Analysis and Reporting
 
 ## Overview
-This week focuses on statistical analysis and reporting. You will learn how to perform descriptive and inferential statistics, validate findings, and create effective data-driven reports. By the end of the week, you will be able to draw conclusions from data and present them professionally.
+This week focuses on statistical analysis and reporting. You will learn how to draw conclusions from data, validate findings using statistical methods, and create effective data-driven reports. By the end of the week, you will be able to perform descriptive and inferential statistics, conduct hypothesis testing, and present your findings in a professional manner.
 
 ---
 
 ## Objectives
-- Learn descriptive and inferential statistics basics.
-- Perform hypothesis testing and validate findings.
-- Create effective data-driven reports.
+- Learn the basics of descriptive and inferential statistics.
+- Perform hypothesis testing to validate data insights.
+- Create data-driven reports summarizing analysis results.
 
 ---
 
 ## Weekly Plan
 ### Day 1: Introduction to Descriptive Statistics
 - Topics:
-  - Measures of central tendency: mean, median, mode.
-  - Measures of dispersion: range, variance, standard deviation.
+  - Measures of central tendency (mean, median, mode).
+  - Measures of dispersion (variance, standard deviation).
 - Deliverables:
-  - Summary statistics for a dataset: "Day1_Summary_Statistics.csv".
+  - Statistical summary report: "Day1_Summary_Report.csv".
 
 ---
 
-### Day 2: Inferential Statistics Basics
+### Day 2: Inferential Statistics and Hypothesis Testing
 - Topics:
-  - Hypothesis testing: null and alternative hypotheses.
-  - P-values and significance levels.
+  - Understanding hypothesis testing.
+  - Conducting t-tests and chi-square tests.
 - Deliverables:
-  - Hypothesis test results: "Day2_Hypothesis_Test_Results.txt".
+  - Hypothesis testing results: "Day2_Hypothesis_Results.csv".
 
 ---
 
-### Day 3: Data Visualization for Statistical Analysis
+### Day 3: Correlation and Regression Analysis
 - Topics:
-  - Creating histograms and box plots for data distribution.
-  - Visualizing confidence intervals.
-- Deliverables:
-  - Visualizations: "Day3_Histogram.png" and "Day3_Box_Plot.png".
-
----
-
-### Day 4: Correlation and Regression Analysis
-- Topics:
-  - Calculating correlation coefficients.
+  - Understanding correlation coefficients.
   - Performing linear regression analysis.
 - Deliverables:
-  - Correlation matrix: "Day4_Correlation_Matrix.csv".
-  - Regression analysis results: "Day4_Regression_Results.txt".
+  - Correlation and regression analysis results: "Day3_Regression_Results.csv".
+
+---
+
+### Day 4: Data Reporting and Visualization
+- Topics:
+  - Creating effective data-driven reports.
+  - Visualizing statistical findings using charts and graphs.
+- Deliverables:
+  - Data report with visualizations: "Day4_Report.pdf".
 
 ---
 
 ### Day 5: Advanced Statistical Techniques
 - Topics:
   - ANOVA (Analysis of Variance).
-  - Chi-square tests for categorical data.
+  - Time series analysis.
 - Deliverables:
-  - ANOVA results: "Day5_ANOVA_Results.txt".
-  - Chi-square test results: "Day5_ChiSquare_Results.txt".
+  - ANOVA and time series analysis results: "Day5_Advanced_Analysis.csv".
 
 ---
 
-### Day 6: Creating Data-Driven Reports
+### Day 6: Case Study and Real-World Application
 - Topics:
-  - Structuring a data-driven report.
-  - Visualizing key insights for stakeholders.
+  - Applying statistical techniques to a real-world dataset.
+  - Drawing actionable insights from data.
 - Deliverables:
-  - Final report: "Day6_Report.pdf".
+  - Case study report: "Day6_Case_Study_Report.pdf".
 
 ---
 
 ### Day 7: Weekly Review and Examination
 - Topics:
-  - Consolidating statistical analysis skills.
+  - Review of statistical concepts and techniques.
   - Final examination with tasks at Easy, Medium, and Hard levels.
 - Deliverables:
   - Easy: "Exam_Easy_Output.csv".
-  - Medium: "Exam_Medium_Results.txt".
-  - Hard: "Exam_Hard_Report.pdf".
+  - Medium: "Exam_Medium_Report.pdf".
+  - Hard: "Exam_Hard_Analysis.csv".
 
 ---
 
 ## Resources
 - **Descriptive Statistics**: [Descriptive Statistics Tutorial](https://www.youtube.com/results?search_query=descriptive+statistics)
-- **Inferential Statistics**: [Inferential Statistics Crash Course](https://www.youtube.com/results?search_query=inferential+statistics)
-- **Data Visualization**: [Matplotlib and Seaborn Tutorials](https://matplotlib.org/stable/contents.html)
+- **Hypothesis Testing**: [Hypothesis Testing Crash Course](https://www.youtube.com/results?search_query=hypothesis+testing)
+- **Data Reporting**: [Data Reporting Best Practices](https://www.youtube.com/results?search_query=data+reporting)
 
 ---
 
