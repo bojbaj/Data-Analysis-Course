@@ -1,0 +1,9 @@
+Region,Month,Sales,Profit,Quantity
+North,Jan,1000,200,50
+South,Jan,1500,300,60
+East,Jan,1200,250,55
+West,Jan,1300,280,58
+North,Feb,1100,210,52
+South,Feb,1400,290,59
+East,Feb,1250,260,56
+West,Feb,1350,270,57
