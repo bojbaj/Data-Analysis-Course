@@ -1,0 +1,9 @@
+ProductID,AdvertisingSpend,Sales,ProductCategory
+101,5000,10000,Electronics
+102,6000,12000,Clothing
+103,7000,11000,Furniture
+104,8000,13000,Electronics
+105,9000,14000,Clothing
+106,10000,15000,Furniture
+107,11000,16000,Electronics
+108,12000,17000,Clothing
